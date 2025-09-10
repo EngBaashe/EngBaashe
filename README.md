@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Eng Salman Abdikadir Ali (Baashe)
 
-<!--
-**EngBaashe/EngBaashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Also known as **Eng Baashe**
 
-Here are some ideas to get you started:
+💻 **Software Engineer | Full-Stack Developer | Mobile & Web Apps Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 I specialize in building **scalable web and mobile applications**
+- 🌱 Currently learning **Spring Boot**
+- 💡 Passionate about solving real-world problems with technology
+- 📫 Reach me at **salmanabdikadir01@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- React.js ⚛️  
+- React Native 📱  
+- HTML • CSS • JavaScript  
+
+### ⚙️ Backend
+- Express.js 🚀  
+- Laravel 🕊️  
+- PHP 🐘  
+- ASP.NET 💼  
+- Spring Boot 🌱 (learning)
+
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+- SQL Server  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngBaashe&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngBaashe&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+- **Email:** salmanabdikadir01@gmail.com
+- **Phone-Whatsapp** +252636819294
