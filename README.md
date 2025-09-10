@@ -2,12 +2,12 @@
 
 ### Also known as **Eng Baashe**
 
-💻 **Software Engineer | Full-Stack Developer | Mobile & Web Apps Developer**
+💻 **Software Engineer | Full-Stack Developer | Mobile & Web Apps Developer | Problem Solver**
 
 ---
 
 ## 🚀 About Me
-- 🔭 I specialize in building **scalable web and mobile applications**
+- 🔭 I specialize in building **scalable web and mobile applications and backend solutions**
 - 🌱 Currently learning **Spring Boot**
 - 💡 Passionate about solving real-world problems with technology
 - 📫 Reach me at **salmanabdikadir01@gmail.com**
@@ -19,7 +19,8 @@
 ### 🌐 Frontend
 - React.js ⚛️  
 - React Native 📱  
-- HTML • CSS • JavaScript  
+- HTML • CSS • JavaScript
+- Asp.net Core Mvc
 
 ### ⚙️ Backend
 - Express.js 🚀  
@@ -29,9 +30,19 @@
 - Spring Boot 🌱 (learning)
 
 ### 🗄️ Databases
-- MySQL  
+- MySQL
+- PostgreSQL
 - MongoDB  
-- SQL Server  
+- SQL Server
+
+### Tools
+- Visual Studio Code
+- Postman
+- Git and Github
+- Docker
+- Vmware
+- XAMP Control Panel
+- Chrome and Firefox
 
 ---
 
